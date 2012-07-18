@@ -1,4 +1,4 @@
-package Acme::Prereq::BigDistro;
+package Acme::Prereq::BigDistro::B;
 
 use strict;
 
